@@ -1,5 +1,4 @@
 # Name: Nir Hemo
-# ID: 204288187
 
 
 from tkinter import *
